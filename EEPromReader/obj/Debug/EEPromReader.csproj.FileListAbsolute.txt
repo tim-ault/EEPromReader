@@ -1,0 +1,7 @@
+C:\GitHub\EEPromReader\EEPromReader\bin\Debug\EEPromReader.exe.config
+C:\GitHub\EEPromReader\EEPromReader\bin\Debug\EEPromReader.exe
+C:\GitHub\EEPromReader\EEPromReader\bin\Debug\EEPromReader.pdb
+C:\GitHub\EEPromReader\EEPromReader\bin\Debug\ITLNET.dll
+C:\GitHub\EEPromReader\EEPromReader\obj\Debug\EEPromReader.csprojResolveAssemblyReference.cache
+C:\GitHub\EEPromReader\EEPromReader\obj\Debug\EEPromReader.exe
+C:\GitHub\EEPromReader\EEPromReader\obj\Debug\EEPromReader.pdb
